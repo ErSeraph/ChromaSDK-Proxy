@@ -1,5 +1,8 @@
 {
     "name": "chromasdk-proxy",
     "version": "1.0.0",
-    "bin": "proxy-server.js"
-  }
+    "bin": "proxy-server.js",
+    "dependencies": {
+        "node-windows": "^1.0.0-beta.8"
+    }
+}

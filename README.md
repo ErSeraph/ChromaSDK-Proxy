@@ -4,9 +4,9 @@ This will install a Windows service that work as a proxy for http://localhost:54
 
 This proxy server will let you connect to your ChromaSDK from another device, such as Home Assistant.
 
-Why? You can connect to your Chroma Device from localhost only (http://localhost:54235/razer/chromasdk) as the older method from (https://chromasdk.io:54236/razer/chromasdk) is not working anymore. By installing this service you can use another custom port (54235) to connect to ChromaSDK outside localhost.
+Why? You can connect to your Chroma Device from localhost only (http://localhost:54235/razer/chromasdk) as the older method from (https://chromasdk.io:54236/razer/chromasdk) is not working anymore. By installing this service you can use another custom port (54236) to connect to ChromaSDK outside localhost.
 
-So, if your device IP is for example 192.168.1.151, you can connect to your Chroma device using http://192.168.1.151:54235/razer/chromasdk
+So, if your device IP is for example 192.168.1.151, you can connect to your Chroma device using http://192.168.1.151:54236/razer/chromasdk
 
 # How to install
 Just download the ZIP file form the green "Code" button at the top.
